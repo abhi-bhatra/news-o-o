@@ -1,0 +1,21 @@
+---
+author: Abhinav Sharma
+comments: true
+date: 2022-05-24
+layout: post
+link: https://news.opensuse.org/2022/05/24/gsoc-rancher-2022/
+slug: gsoc-rancher-2022
+title: My experience in Google Summer of Code 2022
+categories:
+- Announcements
+- Open-Source
+---
+
+![gsoc](https://user-images.githubusercontent.com/63901956/170004155-466d90f6-034a-427c-83bc-e5758af4bfe6.png)
+
+Google Summer of Code is a program organized by Google to bring budding developers into open-source environment. As the name suggests, it takes place every summer, during the months of April to August. Open-Source organizations with the code on collaborative code platforms like GitHub applies to take part as Mentor organizations in Google Summer of Code or GSoC. 
+
+I came to know about Google Summer of Code in my junior year as an undergraduate. I attended various awareness sessions, listening to all that I felt very overwhelmed and it all felt so out of reach and I gave up even without trying. I started working on my skills and acquire a diverse tech stack before getting courage to apply at Google Summer of Code. Eventually in 2022, I vowed to myself that this year I will somehow apply for GSoC. I already had an idea about which organization I wanted to apply for, and it was openSUSE. I have been following up openSUSE and openSUSE is a constant mentor organizations to GSOC from past many years.
+
+
+ More informations: [//en.opensuse.org/Events/ENOS](//en.opensuse.org/Events/ENOS) and [//pt.opensuse.org/Eventos/ENOS](//pt.opensuse.org/Eventos/ENOS) In ios 7 beta 4, the messages app  displayed the first name and last initial of a contact in a conversation by default
